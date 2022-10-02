@@ -1,0 +1,26 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Table</title>
+  </head>
+  <body>
+    <table border="1" cellpadding="10">
+    <tr>
+      <td colspan="3">
+        <h1>HTML Table Example</h1>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg" width="100">
+      </td>
+      <td>
+        Meal Planner
+      </td>
+      <td>
+        <h2>Reciept Index #:</h2>
+      </td>
+   </table>
+  </body>
+  </html>
